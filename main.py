@@ -32,7 +32,7 @@ def definition(w):
         else:
             return "Invalid entry!"
     else:
-        return "Word not found. No alternate suggestions available."
+        return "Word not found. No suggestions available."
 
 
 word = input("Enter a word to search: ")
